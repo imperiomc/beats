@@ -1,4 +1,4 @@
-let fechav = "01/08/2025"
+let fechav = "02/08/2025"
 
 const objetosDisponibles = [
   {
