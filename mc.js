@@ -307,7 +307,7 @@ let mcDataDefault = {
     "Nacionalidad": "Mexico",
     "Sexo": "H",
     "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpYMX7zAWZKGrb6u0KMv5KV-196Y6kwLmueRWoVtwb0SwPCdCoKTOVtM&s=10",
-    "Estado": "Inactivo",
+    "Estado": "Activo",
     "Punch": 97,
     "Flow": 91,
     "Ingenio": 98,
